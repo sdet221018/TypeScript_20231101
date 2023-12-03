@@ -12,4 +12,6 @@ function add(num1: number, num2: number) : number {
 }
 
 console.log(Calculator(1,3));
-console.log(Calculator(1,3, "*"));
+console.log(Calculator(1,3, "/"));
+
+export {};
